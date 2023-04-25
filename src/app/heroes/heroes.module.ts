@@ -12,7 +12,7 @@ import { HeroComponent } from "./hero/hero.component";
   ],
   exports: [
     ListComponent,
-    HeroComponent
+    HeroComponent,
   ],
   imports: [
     CommonModule
